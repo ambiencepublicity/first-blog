@@ -6,7 +6,7 @@ const { marked } = require("marked");
 /* ---------- Site config — edit these ---------- */
 const SITE = {
   name: "My Static Blog",
-  url: "https://your-site.netlify.app", // ← change after your first deploy
+  url: "https://localbusinessclub.netlify.app", // ← change after your first deploy
 };
 
 /* ---------- Paths ---------- */
